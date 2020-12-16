@@ -30,6 +30,7 @@ const baseConfig = {
       '**/content-security-policy.js',
       '**/message_duplicates.spec.js',
       '**/api/server.js',
+      '**/service-worker.js',
     ],
     // performance: 'performance/**/*.js'
   },
